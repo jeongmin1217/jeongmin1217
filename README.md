@@ -9,7 +9,7 @@
 
 - 📫 Contact : **mujm1217@gmail.com**
 
-- 💜 Playing soccer, playing football, watching soccer, watching football...
+- 💜 Play soccer, play football, watch soccer, watch football...
      <br> ⚽️ Big fan of Manchester United, FC Seoul ⚽️
 
 <h2>🛠 Tech stack</h2>
