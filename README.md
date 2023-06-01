@@ -5,7 +5,7 @@
 
 - 🎓 KHU Industrial management Engineering & SoftWare convergence
 
-- 👨‍💻 I’m currently working on Deep learning, CV, React, Django
+- 👨‍💻 I’m currently working on Deep learning, CV, React, Django, SQL
 
 - 📫 Contact : **mujm1217@gmail.com**
 
