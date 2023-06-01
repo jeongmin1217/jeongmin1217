@@ -32,7 +32,9 @@
     <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx"/> 
     <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
     <img alt="Flask" src="https://img.shields.io/badge/-Flask-05122A?style=for-the-badge&logo=flask&logoColor=white">
+     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'>
 </p>
+
 
 <h3>Databases & Cloud Hosting</h3>
 <p>
