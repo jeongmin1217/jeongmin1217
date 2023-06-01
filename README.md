@@ -7,7 +7,7 @@
 
 - 👨‍💻 I’m currently working on Deep learning, CV, React, Django, SQL
 
-- 📫 Contact : **mujm1217@gmail.com**
+- 📫 Contact : **balljm@naver.com**
 
 - 💜 Play soccer, play football, watch soccer, watch football 💜
      <br> ⚽️ Big fan of Manchester United, FC Seoul ⚽️
