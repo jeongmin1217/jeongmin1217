@@ -16,7 +16,7 @@
 <h3>Languages</h3>
 <p>
      <img src="http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" alt = "python"/>
-     <img src="https://img.shields.io/badge/C++%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" alt="c++"/>
+     <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
      <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/> 
      <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> 
      <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
