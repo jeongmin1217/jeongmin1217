@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jeongmin <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h2>About me</h2>
+<h2>🎤 About me</h2>
 
 - 💻 Interested in **data engineering, web development and AI** <img align="right" style="width:14rem; height:auto;" src="https://github.com/jeongmin1217/jeongmin1217/blob/main/jeongmin.png"/>
 
@@ -67,7 +67,7 @@
     <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white" alt="virtualbox"/>
 </p>
 
-<h2>Work experience</h2>
+<h2>📝 Work experience</h2>
 <li><a href="https://github.com/hyu-likelion">🐯 HYU LIKELION 9th</a> (2021) - Web Development <br/></li>
 <li><a href="https://github.com/Bitamin9">💻 BITAmin 9th</a> (2022) - Big data analysis <br/></li>
 <li>👐 GGUMINDREAM 18th (2021-22) - Teenagers Mentoring <br/></li>
