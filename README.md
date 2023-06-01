@@ -1,10 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Jeongmin<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h2>About me</h2>
 
-<!--
-**jeongmin1217/jeongmin1217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://github.com/jeongmin1217/jeongmin1217/blob/main/jeongmin.png"/>
 
-Here are some ideas to get you started:
-
+- 👯 I’m looking to collaborate on **Spring Framework**
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
