@@ -63,4 +63,4 @@
 <li>📢 Student Council of Publicity Dept.of Industrial management Engineering (2022) <br/></li>
 <li>Other KHU experience : Global Ambassador (2021), CAPTIMA (2018-present), DREPOS (2018), SVSTIP (2022)</li>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksey-Voko&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongmin1217&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
