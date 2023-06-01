@@ -56,17 +56,6 @@
      <img alt="Dlib" src="https://img.shields.io/badge/dlib-009639.svg?style=for-the-badge&logo=dlib&logoColor=white">
 </p>
 
-<h3>Version Control & Tools</h3>
-<p>
-    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/>
-    <img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?style=for-the-badge&logo=google-colab&logoColor=white">
-    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white">
-    <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
-    <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white" alt="virtualbox"/>
-</p>
-
 <h2>📝 Work experience</h2>
 <li><a href="https://github.com/hyu-likelion">🐯 HYU LIKELION 9th</a> (2021) - Web Development <br/></li>
 <li><a href="https://github.com/Bitamin9">💻 BITAmin 9th</a> (2022) - Big data analysis <br/></li>
