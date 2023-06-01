@@ -11,3 +11,4 @@
 
 - 💜 Playing soccer, playing football, watching soccer, watching football...
      <br> ⚽️ Big fan of Manchester United, FC Seoul ⚽️
+<h2>Tech stack</h2>
