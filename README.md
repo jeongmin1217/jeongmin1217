@@ -22,7 +22,7 @@
      <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> 
      <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
      <img src="https://img.shields.io/badge/-PHP-05122A.svg?style=for-the-badge&logo=php&logoColor=777BB4" alt="php"/>
-     <img src="https://img.shields.io/badge/-Dart-05122A.svg?style=for-the-badge&logo=dart&logoColor=1075C2" alt="dart"/>
+     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
 </p>
 
 <h3>Web/App Development</h3>
