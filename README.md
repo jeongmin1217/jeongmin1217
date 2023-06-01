@@ -51,6 +51,7 @@
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
      <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+     <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-05122A?style=for-the-badge&logo=opencv&logoColor=5C3EE8">
 </p>
 
 <h3 align="center">Version Control & CI/CD</h3>
