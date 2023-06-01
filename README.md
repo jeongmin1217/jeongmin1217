@@ -54,7 +54,7 @@
     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
      <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
      <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-05122A?style=for-the-badge&logo=opencv&logoColor=5C3EE8">
-     <img alt="Dlib" src="https://img.shields.io/badge/dlib-D24939?style=for-the-bage&logo=dlib&logoColor=white">
+     <img alt="Dlib" src="https://img.shields.io/badge/-dlib-D24939?style=for-the-bage&logo=dlib&logoColor=white">
 </p>
 
 <h3 align="center">Version Control & CI/CD</h3>
