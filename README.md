@@ -2,7 +2,11 @@
 <h2>About me</h2>
 
 - 💻 Interested in data engineering, web development and AI **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://github.com/jeongmin1217/jeongmin1217/blob/main/jeongmin.png"/>
+
 - 🎓 KHU INDUSTRIAL MANAGEMENT ENGINEERING & SOFTWARE CONVERGENCE
+
 - 👨‍💻 I’m currently working on ...
+
 - 📫 Contact : **mujm1217@gmail.com**
+
 - 💜 Playing soccer, playing football, watching soccer, watching football... Big fan of Manchester United, FC Seoul ⚽️
