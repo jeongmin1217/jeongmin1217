@@ -21,7 +21,9 @@
      <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white">
      <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> 
      <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
+     <img src="https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=php&logoColor=777BB4" alt="php"/>
 
+https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4
 </p>
 
 <h3>Web Development</h3>
@@ -32,7 +34,6 @@
     <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx"/> 
     <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
     <img alt="Flask" src="https://img.shields.io/badge/-Flask-05122A?style=for-the-badge&logo=flask&logoColor=white">
-     <img alt="Amazon AWS" src = "https://img.shields.io/badge/-Amazon%20AWS-000?style=for-the-badge&logo=amazon-aws">
 </p>
 
 
@@ -41,6 +42,7 @@
     <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"/>
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
+     <img alt="Amazon AWS" src = "https://img.shields.io/badge/-Amazon%20AWS-000?style=for-the-badge&logo=amazon-aws">
 </p>
 
 <h3 align="center">Testing</h3>
