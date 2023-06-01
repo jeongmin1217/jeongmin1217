@@ -37,7 +37,6 @@
      <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-05122A?style=for-the-badge&logo=flutter&logoColor=02569B">
 </p>
 
-
 <h3>Databases & Cloud Hosting</h3>
 <p>
     <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"/>
@@ -67,4 +66,13 @@
     <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
     <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white" alt="virtualbox"/>
 </p>
-<br/>
+
+<h2>Experience</h2>
+<p>
+- <a href="https://github.com/hyu-likelion">🐯 HYU LIKELION 9th</a> (2021) - Web Development
+- <a href="https://github.com/Bitamin9">💻 BITAmin 9th</a> (2022) - Big data analysis
+- 👐 GGUMINDREAM 18th (2021-22) - Teenagers Mentoring
+- 📢 Student Council of Publicity Dept.of Industrial management Engineering (2022)
+
+</p>
+
