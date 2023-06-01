@@ -10,4 +10,4 @@
 - 📫 Contact : **mujm1217@gmail.com**
 
 - 💜 Playing soccer, playing football, watching soccer, watching football...
-     <br> Big fan of Manchester United, FC Seoul ⚽️
+     <br> ⚽️ Big fan of Manchester United, FC Seoul ⚽️
