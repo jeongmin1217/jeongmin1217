@@ -67,8 +67,9 @@
     <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white" alt="virtualbox"/>
 </p>
 
-<h2>Experience</h2>
+<h2>Work experience</h2>
 <li><a href="https://github.com/hyu-likelion">🐯 HYU LIKELION 9th</a> (2021) - Web Development <br/></li>
-- <a href="https://github.com/Bitamin9">💻 BITAmin 9th</a> (2022) - Big data analysis <br/>
-- 👐 GGUMINDREAM 18th (2021-22) - Teenagers Mentoring <br/>
-- 📢 Student Council of Publicity Dept.of Industrial management Engineering (2022) <br/>
+<li><a href="https://github.com/Bitamin9">💻 BITAmin 9th</a> (2022) - Big data analysis <br/></li>
+<li>👐 GGUMINDREAM 18th (2021-22) - Teenagers Mentoring <br/></li>
+<li>📢 Student Council of Publicity Dept.of Industrial management Engineering (2022) <br/></li>
+<li>Other KHU experience : Global Ambassador (2021), CAPTIMA (2018-present), DREPOS (2018), SVSTIP (2022)</li>
