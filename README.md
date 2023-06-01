@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx"/> 
     <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
     <img alt="Flask" src="https://img.shields.io/badge/-Flask-05122A?style=for-the-badge&logo=flask&logoColor=white">
-     <img alt="AWS" src = "https://img.shields.io/badge/-Amazon%20AWS-000?style=for-the-badge&logo=amazon-aws>
+     <img alt="Amazon AWS" src = "https://img.shields.io/badge/-Amazon%20AWS-000?style=for-the-badge&logo=amazon-aws">
 </p>
 
 
