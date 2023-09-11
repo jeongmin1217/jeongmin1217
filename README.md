@@ -1,16 +1,15 @@
 <h1 align="center">Hi, I'm Jeongmin <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h2>🎤 About me</h2>
 
-- 💻 Interested in **data engineering, web development and AI** <img align="right" style="width:14rem; height:auto;" src="https://github.com/jeongmin1217/jeongmin1217/blob/main/jeongmin.png"/>
+- 💻 Interested in **data engineering and web development** <img align="right" style="width:14rem; height:auto;" src="https://github.com/jeongmin1217/jeongmin1217/blob/main/jeongmin.png"/>
 
 - 🎓 KHU Industrial management Engineering & SoftWare convergence
 
-- 👨‍💻 I’m currently working on Deep learning, CV, React, Django, SQL
+- 👨‍💻 I’m currently working on Deep learning, React, Django, SQL
 
 - 📫 Contact : **balljm@naver.com**
 
 - 💜 Play soccer, play football, watch soccer, watch football 💜
-     <br> ⚽️ Big fan of Manchester United, FC Seoul ⚽️
 
 <h2>🛠 Tech stack</h2>
 <h3>Languages</h3>
@@ -34,6 +33,7 @@
 <p>
     <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"/>
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
      <img alt="Amazon AWS" src = "https://img.shields.io/badge/-Amazon%20AWS-000?style=for-the-badge&logo=amazon-aws">
 </p>
