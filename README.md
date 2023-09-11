@@ -57,6 +57,7 @@
 <li>👐 GGUMINDREAM 18th (2021-22) - Teenagers Mentoring <br/></li>
 <li>📢 Student Council of Publicity Dept.of Industrial management Engineering (2022) <br/></li>
 <li>Other KHU experience : Global Ambassador (2021), CAPTIMA (2018-present), DREPOS (2018), SVSTIP (2022)</li>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongmin1217&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongmin1217&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongmin1217&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
  -->
