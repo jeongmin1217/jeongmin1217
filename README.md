@@ -55,7 +55,7 @@
 <li><a href="https://github.com/Bitamin9">💻 BITAmin 9th</a> (2022) - Big data analysis <br/></li>
 <li><a href="https://github.com/VS-DataPlatform-Cell">🏢 VISANG Education</a> (2023) - Data Innovation Core - Data Platform Cell <br/></li>
 <li>✈️ Purdue University Computer and Information Technology (2023-present) - Student Intern <br/></li>
-<li>Other experience : Silicon Valley Software Technology & Innovation Program (2022), <br/>GGUMINDREAM 18th (2021-22) - Teenagers Mentoring, Student Council of Publicity Dept.of Industrial management Engineering (2022), <br/>KHU Global Ambassador (2021), DREPOS - Sports marketing (2018), CAPTIMA - Computer(2018-present)</li>
+<li>Other experience : Silicon Valley Software Technology & Innovation Program (2022), <br/>GGUMINDREAM 18th - Teenagers Mentoring (2021-22), Student Council of Publicity Dept.of Industrial management Engineering (2022), <br/>KHU Global Ambassador (2021), DREPOS - Sports marketing (2018), CAPTIMA - Computer (2018-present)</li>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongmin1217&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
  -->
