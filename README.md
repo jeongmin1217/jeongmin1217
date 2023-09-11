@@ -27,6 +27,7 @@
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/>
     <img src="https://img.shields.io/badge/-Electron-000?style=for-the-badge&logo=Electron&logoColor=white" alt="electron"/>
     <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+     <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
 </p>
 
 <h3>Databases & Cloud Hosting</h3>
