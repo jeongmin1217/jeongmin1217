@@ -52,12 +52,9 @@
 <h2>📝 Work experience</h2>
 <li><a href="https://github.com/hyu-likelion">🐯 HYU LIKELION 9th</a> (2021) - Web Development <br/></li>
 <li><a href="https://github.com/Bitamin9">💻 BITAmin 9th</a> (2022) - Big data analysis <br/></li>
-<li><a href="https://github.com/VS-DataPlatform-Cell">💻 VISANG</a> (2022) - Big data analysis <br/></li>
-
-<li>👐 GGUMINDREAM 18th (2021-22) - Teenagers Mentoring <br/></li>
-<li>📢 Student Council of Publicity Dept.of Industrial management Engineering (2022) <br/></li>
-<li>Other KHU experience : Global Ambassador (2021), CAPTIMA (2018-present), DREPOS (2018), SVSTIP (2022)</li>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongmin1217&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+<li><a href="https://github.com/VS-DataPlatform-Cell">🏢 VISANG Education</a> (2023) - Data Innovation Core - Data Platform Cell <br/></li>
+<li>✈️ Purdue University Computer and Information Technology (2023-present) - Student Intern <br/></li>
+<li>Other experience : Silicon Valley Software Technology & Innovation Program (2022), GGUMINDREAM 18th (2021-22) - Teenagers Mentoring, Student Council of Publicity Dept.of Industrial management Engineering (2022), KHU Global Ambassador (2021), DREPOS - Sports marketing (2018), CAPTIMA - Computer(2018-present)</li>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongmin1217&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
  -->
