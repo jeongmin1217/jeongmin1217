@@ -5,8 +5,6 @@
 
 - 🎓 KHU Industrial management Engineering & SoftWare convergence
 
-- 👨‍💻 I’m currently working on Deep learning, React, Django, SQL
-
 - 📫 Contact : **balljm@naver.com**
 
 - 💜 Play soccer, play football, watch soccer, watch football 💜
