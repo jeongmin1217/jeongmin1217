@@ -54,12 +54,18 @@
      <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
 </p>
 
-<h2>📝 Work experience</h2>
-<li><a href="https://github.com/hyu-likelion">🐯 HYU LIKELION 9th</a> (2021) - Web Development <br/></li>
-<li><a href="https://github.com/Bitamin9">💻 BITAmin 9th</a> (2022) - Big data analysis <br/></li>
-<li><a href="https://github.com/VS-DataPlatform-Cell">🏢 VISANG Education</a> (2023) - Data Innovation Core - Data Platform Cell <br/></li>
-<li>✈️ Purdue University Computer and Information Technology (2023-present) - Student Intern <br/></li>
-<li>Other experience : Silicon Valley Software Technology & Innovation Program (2022), <br/>GGUMINDREAM 18th - Teenagers Mentoring (2021-22), Student Council of Publicity Dept.of Industrial management Engineering (2022), <br/>KHU Global Ambassador (2021), DREPOS - Sports marketing (2018), CAPTIMA - Computer (2018-present)</li>
+<h2>🗂️ Careers</h2>
+<li><a href="https://github.com/VS-DataPlatform-Cell">🏢 VISANG Education</a> - Data Platform Cell Intern (2023.07-2023.08 & 2024.01-2024.02)<br/></li>
+<li>✈️ Purdue University Computer and Information Technology - Student Intern (2023.09-2023.12)<br/></li>
+
+<h2>📝 Activities</h2>
+<li><a href="https://github.com/hyu-likelion">🐯 HYU LIKELION 9th</a> - Web Development (2021.03-2021.12)<br/></li>
+<li><a href="https://github.com/Bitamin9">💻 BITAmin 9th</a> - Big data analysis (2022.02-2023.02)<br/></li>
+<li>Silicon Valley Software Technology & Innovation Program - App Development(2022.07-2022.08)<br/></li>
+<li>KHU Global Ambassador (2021.09-2021.12)<br/></li>
+<li>GGUMINDREAM 18th - Teenagers Mentoring (2021.08-2023.02)<br/></li>
+<li>DREPOS - Sports marketing (2018.03-2019.02)<br/></li>
+<li>Student Council of Publicity Dept.of Industrial management Engineering (2022.02-2023.02)<br/></li>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongmin1217&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
  -->
