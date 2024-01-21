@@ -60,12 +60,12 @@
 
 <h2>📝 Activities</h2>
 <li><a href="https://github.com/hyu-likelion">🐯 HYU LIKELION 9th</a> - Web Development (2021.03-2021.12)<br/></li>
-<li><a href="https://github.com/Bitamin9">💻 BITAmin 9th</a> - Big data analysis (2022.02-2023.02)<br/></li>
+<li><a href="https://github.com/Bitamin9">💻 BITAmin 9th</a> - Big Data Analysis (2022.02-2023.02)<br/></li>
 <li><a href="https://github.com/MashUP-MOA/moa">Silicon Valley Software Technology & Innovation Program</a> - App Development(2022.07-2022.08)<br/></li>
 <li>KHU Global Ambassador (2021.09-2021.12)<br/></li>
 <li>GGUMINDREAM 18th - Teenagers Mentoring (2021.08-2023.02)<br/></li>
-<li>DREPOS - Sports marketing (2018.03-2019.02)<br/></li>
-<li>Student Council of Publicity Dept.of Industrial management Engineering (2022.02-2023.02)<br/></li>
+<li>DREPOS - Sports Marketing (2018.03-2019.02)<br/></li>
+<li>Student Council of Publicity Dept.of Industrial Management Engineering (2022.02-2023.02)<br/></li>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongmin1217&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
  -->
