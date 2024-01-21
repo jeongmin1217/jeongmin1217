@@ -13,9 +13,9 @@
 <h3>Languages</h3>
 <p>
      <img src="http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" alt = "python"/>
-     <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
      <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript"/>
      <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white">
+     <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
      <img src="https://img.shields.io/badge/-PHP-05122A.svg?style=for-the-badge&logo=php&logoColor=777BB4" alt="php"/>
 </p>
 
@@ -23,29 +23,35 @@
 <p>
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="react"/>
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/>
-    <img src="https://img.shields.io/badge/-Electron-000?style=for-the-badge&logo=Electron&logoColor=white" alt="electron"/>
     <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+    <img src="https://img.shields.io/badge/-Electron-000?style=for-the-badge&logo=Electron&logoColor=white" alt="electron"/>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter"/>
 </p>
 
-<h3>Databases & Cloud Hosting</h3>
+<h3>Databases</h3>
 <p>
     <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"/>
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="firebase"/>
-     <img alt="Amazon AWS" src = "https://img.shields.io/badge/-Amazon%20AWS-000?style=for-the-badge&logo=amazon-aws">
 </p>
 
-<h3>Libraries</h3>
+<h3>Data Engineering & Cloud Hosting</h3>
 <p>
-    <img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
+     <img alt="Amazon AWS" src = "https://img.shields.io/badge/-Amazon%20AWS-000?style=for-the-badge&logo=amazon-aws">
+     <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="airflow"/>
+     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
+     <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="firebase"/>
+</p>
+
+<h3>ML & DL</h3>
+<p>
     <img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
-     <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
      <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-05122A?style=for-the-badge&logo=opencv&logoColor=white">
      <img alt="Dlib" src="https://img.shields.io/badge/dlib-009639.svg?style=for-the-badge&logo=dlib&logoColor=white">
+     <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
 </p>
 
 <h2>📝 Work experience</h2>
