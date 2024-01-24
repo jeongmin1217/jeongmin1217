@@ -56,7 +56,7 @@
 
 <h2>🗂️ Careers</h2>
 <li><a href="https://github.com/VS-DataPlatform-Cell">🏢 VISANG Education</a> - Data Platform Cell Intern (2023.07-2023.08 & 2024.01-2024.02)<br/></li>
-<li><a href="https://github.com/Healthcare-of-Things">✈️ Purdue University Computer and Information Technology - Student Intern (2023.09-2023.12)<br/></li>
+<li><a href="https://github.com/Healthcare-of-Things">✈️ Purdue University Computer and Information Technology</a> - Student Intern (2023.09-2023.12)<br/></li>
 <h2>📝 Activities</h2>
 <li><a href="https://github.com/jeongmin1217/Local-People">🐯 HYU LIKELION 9th</a> - Web Development (2021.03-2021.12)<br/></li>
 <li><a href="https://github.com/Bitamin9">💻 BITAmin 9th</a> - Big Data Analysis (2022.02-2023.02)<br/></li>
