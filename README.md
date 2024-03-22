@@ -43,16 +43,6 @@
      <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="firebase"/>
 </p>
 
-<h3>ML & DL</h3>
-<p>
-    <img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-     <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-05122A?style=for-the-badge&logo=opencv&logoColor=white">
-     <img alt="Dlib" src="https://img.shields.io/badge/dlib-009639.svg?style=for-the-badge&logo=dlib&logoColor=white">
-     <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
-</p>
-
 <h2>🗂️ Careers</h2>
 <li><a href="https://github.com/jeongmin1217/Visang-Education-Data-Platform-Cell-Review">🏢 VISANG Education</a> - Data Platform Cell Intern (2023.07-2023.08 & 2024.01-2024.02)<br/></li>
 <li><a href="https://github.com/Healthcare-of-Things">✈️ Purdue University Computer and Information Technology</a> - Student Intern (2023.09-2023.12)<br/></li>
