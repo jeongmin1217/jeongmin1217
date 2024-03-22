@@ -13,8 +13,8 @@
 <h3>Languages</h3>
 <p>
      <img src="http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" alt = "python"/>
-     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript"/>
      <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white">
+     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript"/>
      <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
 </p>
 
