@@ -5,7 +5,7 @@
 
 - 🎓 KHU Industrial management Engineering & SoftWare convergence
 
-- 📫 Contact : **balljm@naver.com**
+- 📫 Contact : **mujm1217@gmail.com**
 
 - 💜 Play soccer, play football, watch soccer, watch football 💜
 
