@@ -5,6 +5,8 @@
 
 - 🎓 KHU Industrial management Engineering & SoftWare convergence
 
+- 📌 Personal Web Site : <a href="https://jeongmin-portfolio.vercel.app/">Portfolio Website</a>
+
 - 📫 Contact : **mujm1217@gmail.com**
 
 - 💜 Play soccer, play football, watch soccer, watch football 💜
