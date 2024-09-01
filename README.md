@@ -12,7 +12,7 @@
 - 💜 Play soccer, play football, watch soccer, watch football 💜
 
 <h2>🛠 Tech stack</h2>
-<h3>Languages</h3>
+<h3>Language</h3>
 <p>
      <img src="http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" alt = "python"/>
      <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white">
@@ -35,7 +35,7 @@
      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
-<h3>Web/App Development/ML/DL</h3>
+<h3>Web Development/ML/DL</h3>
 <p>
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="react"/>
     <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
