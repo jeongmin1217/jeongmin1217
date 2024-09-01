@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jeongmin <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h2>🎤 About me</h2>
 
-- 💻 Interested in **data engineering and web development** <img align="right" style="width:10rem; height:auto; margin-right:45%" src="https://github.com/jeongmin1217/jeongmin1217/blob/main/jeongmin.png"/>
+- 💻 Interested in **data engineering** <img align="right" style="width:10rem; height:auto; margin-right:45%" src="https://github.com/jeongmin1217/jeongmin1217/blob/main/jeongmin.png"/>
 
 - 🎓 KHU Industrial management Engineering & SoftWare convergence
 
@@ -17,17 +17,24 @@
      <img src="http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" alt = "python"/>
      <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white">
      <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript"/>
-     <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
+</p>
+
+<h3>Data Engineering & Cloud Hosting</h3>
+<p>
+     <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="airflow"/>
+     <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="kafka"/>
+     <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black" alt="spark"/>
+     <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="google-cloud"/>
+     <img alt="Amazon AWS" src = "https://img.shields.io/badge/-Amazon%20AWS-000?style=for-the-badge&logo=amazon-aws">
+     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
 </p>
 
 <h3>Web/App Development</h3>
 <p>
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="react"/>
-    <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/>
     <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
     <img src="https://img.shields.io/badge/-Electron-000?style=for-the-badge&logo=Electron&logoColor=white" alt="electron"/>
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter"/>
 </p>
 
 <h3>Databases</h3>
@@ -35,14 +42,6 @@
     <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"/>
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-</p>
-
-<h3>Data Engineering & Cloud Hosting</h3>
-<p>
-     <img alt="Amazon AWS" src = "https://img.shields.io/badge/-Amazon%20AWS-000?style=for-the-badge&logo=amazon-aws">
-     <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="airflow"/>
-     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
-     <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="firebase"/>
 </p>
 
 <h3>ML & DL</h3>
