@@ -5,7 +5,7 @@
 
 - 🎓 KHU Industrial management Engineering & SoftWare convergence
 
-- 📌 Personal Web Site : <a href="https://www.jmseo1217.com/">www.jmseo1217.com</a>
+- 📌 Personal Web Site : <a href="https://www.jmseo1217.com/" target="_blank">www.jmseo1217.com</a>
 
 - 📫 Contact : **mujm1217@gmail.com**
 
@@ -23,7 +23,7 @@
 <p>
      <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="airflow"/>
      <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="kafka"/>
-     <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black" alt="spark"/ style="height: 28px;">
+     <img src="https://img.shields.io/badge/Apache%20Spark-DB571B?style=flat-square&logo=apachespark&logoColor=black" alt="spark"/ style="height: 25px;">
      <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="google-cloud"/>
      <img alt="Amazon AWS" src = "https://img.shields.io/badge/-Amazon%20AWS-000?style=for-the-badge&logo=amazon-aws">
      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
