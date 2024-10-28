@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jeongmin <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h2>🎤 About me</h2>
 
-- 💻 Interested in **data engineering** <img align="right" style="width:10rem; height:auto; margin-right:45%" src="https://github.com/jeongmin1217/jeongmin1217/blob/main/jeongmin.png"/>
+- 💻 Interested in **DataOps, especially in the areas related to databases** <img align="right" style="width:10rem; height:auto; margin-right:45%" src="https://github.com/jeongmin1217/jeongmin1217/blob/main/jeongmin.png"/>
 
 - 🎓 KHU Industrial management Engineering & SoftWare convergence
 
