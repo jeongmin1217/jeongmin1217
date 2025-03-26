@@ -52,6 +52,7 @@
 <li><a href="https://github.com/jeongmin1217/Local-People">🐯 HYU LIKELION 9th</a> - Web Development (2021.03-2021.12)<br/></li>
 <li><a href="https://github.com/Bitamin9">💻 BITAmin 9th</a> - Big Data Analysis (2022.02-2023.02)<br/></li>
 <li><a href="https://github.com/MashUP-MOA/moa">💡 Silicon Valley Software Technology & Innovation Program</a> - App Development(2022.07-2022.08)<br/></li>
+<li><a href="https://uxc.khu.ac.kr/file/ksc2024/KSC2024_%EC%84%9C%EC%A0%95%EB%AF%BC.pdf" target="_blank">📝 한국정보과학회 2024 한국소프트웨어종합학술대회 논문집 게재 (KSC 2024)</a> - <a href="https://github.com/jeongmin1217/LookAtMe">시선 트래킹 기반 이러닝 집중도 측정 시스템</a></li>
 <li>KHU Global Ambassador (2021.09-2021.12)<br/></li>
 <li>GGUMINDREAM 18th - Teenagers Mentoring (2021.08-2023.02)<br/></li>
 <li>DREPOS - Sports Marketing (2018.03-2019.02)<br/></li>
