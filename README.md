@@ -19,7 +19,7 @@
      <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript"/>
 </p>
 
-<h3>Data Engineering & Cloud Hosting</h3>
+<h3>Data Engineering & Cloud</h3>
 <p>
      <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="airflow"/>
      <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="kafka"/>
