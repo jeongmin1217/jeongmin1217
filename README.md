@@ -46,15 +46,15 @@
 </p>
 
 <h2>🗂️ Careers</h2>
-<li><a href="https://github.com/jeongmin1217/Visang-Education-Data-Platform-Cell-Review">🏢 VISANG Education</a> - Data Platform Cell Intern (2023.07-2023.08 & 2024.01-2024.02)<br/></li>
-<li><a href="https://github.com/Healthcare-of-Things">✈️ Purdue University Computer and Information Technology</a> - Student Intern (2023.09-2023.12)<br/></li>
+<li>🏢 <a href="https://github.com/jeongmin1217/Visang-Education-Data-Platform-Cell-Review">VISANG Education</a> - Data Platform Cell Intern (2023.07-2023.08 & 2024.01-2024.02)<br/></li>
+<li>✈️ <a href="https://github.com/Healthcare-of-Things">Purdue University Computer and Information Technology</a> - Student Intern (2023.09-2023.12)<br/></li>
 <h2>📝 Activities</h2>
-<li><a href="https://uxc.khu.ac.kr/file/ksc2024/KSC2024_%EC%84%9C%EC%A0%95%EB%AF%BC.pdf" target="_blank">📝 2024 한국소프트웨어종합학술대회 논문집 게재 (KSC 2024)</a> - <a href="https://github.com/jeongmin1217/LookAtMe">시선 트래킹 기반 이러닝 집중도 측정 시스템</a> (2024.09 - 2024.12)<br/></li>
+<li>📝 <a href="https://uxc.khu.ac.kr/file/ksc2024/KSC2024_%EC%84%9C%EC%A0%95%EB%AF%BC.pdf" target="_blank">2024 한국소프트웨어종합학술대회 논문집 게재 (KSC 2024)</a> - <a href="https://github.com/jeongmin1217/LookAtMe">시선 트래킹 기반 이러닝 집중도 측정 시스템</a> (2024.09 - 2024.12)<br/></li>
 <li>🏫 Student Council of Publicity Dept.of Industrial Management Engineering (2022.02-2023.02)<br/></li>
-<li><a href="https://github.com/Bitamin9">💻 BITAmin 9th</a> - Big Data Analysis (2022.02-2023.02)<br/></li>
-<li><a href="https://github.com/MashUP-MOA/moa">💡 Silicon Valley Software Technology & Innovation Program</a> - App Development(2022.07-2022.08)<br/></li>
+<li>💻 <a href="https://github.com/Bitamin9">BITAmin 9th</a> - Big Data Analysis (2022.02-2023.02)<br/></li>
+<li>💡 <a href="https://github.com/MashUP-MOA/moa">Silicon Valley Software Technology & Innovation Program</a> - App Development(2022.07-2022.08)<br/></li>
 <li>🧑‍🏫 GGUMINDREAM 18th - Teenagers Mentoring (2021.08-2022.08)<br/></li>
-<li><a href="https://github.com/jeongmin1217/Local-People">🐯 HYU LIKELION 9th</a> - Web Development (2021.03-2021.12)<br/></li>
+<li>🐯 <a href="https://github.com/jeongmin1217/Local-People">HYU LIKELION 9th</a> - Web Development (2021.03-2021.12)<br/></li>
 <li>🌏 KHU Global Ambassador (2021.09-2021.12)<br/></li>
 <li>⚽ DREPOS - Sports Marketing (2018.03-2019.02)<br/></li>
 
