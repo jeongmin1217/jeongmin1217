@@ -57,6 +57,3 @@
 <li>🐯 <a href="https://github.com/jeongmin1217/Local-People">HYU LIKELION 9th</a> - Web Development (2021.03-2021.12)<br/></li>
 <li>🌏 KHU Global Ambassador (2021.09-2021.12)<br/></li>
 <li>⚽ DREPOS - Sports Marketing (2018.03-2019.02)<br/></li>
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongmin1217&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
- -->
