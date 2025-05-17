@@ -5,8 +5,6 @@
 
 - 🎓 B.S. in Industrial Management Engineering & Software Convergence, Kyung Hee University (KHU)
 
-- 📌 Personal Web Site : <a href="https://www.jmseo1217.com/" target="_blank">www.jmseo1217.com</a>
-
 - 📫 Contact : **mujm1217@gmail.com**
 
 - 💜 Play soccer, play football, watch soccer, watch football 💜
