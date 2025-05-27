@@ -4,6 +4,8 @@
 - 💻 I’m passionate about creating positive change for the world through data <img align="right" style="width:10rem; height:auto; margin-right:45%" src="https://github.com/jeongmin1217/jeongmin1217/blob/main/jeongmin.png"/>
 
 - 🎓 B.S. in Industrial Management Engineering & Software Convergence, Kyung Hee University (KHU)
+- 
+- 📌 Personal Web Site : <a href="https://www.jmseo1217.com/" target="_blank">www.jmseo1217.com</a>
 
 - 📫 Contact : **mujm1217@gmail.com**
 
